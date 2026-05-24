@@ -1,0 +1,23 @@
+Segmentation assessment using registered PET activity
+====================================================
+Mask voxels: 8848
+
+PET activity inside filled SAM mask:
+Mean: 1114.1016
+Median: 873.1788
+Max: 3864.8638
+Filled mask/background mean ratio: 0.6012
+
+PET activity on tumor rim/border:
+Rim voxels: 19019
+Mean: 1494.0421
+Median: 1422.9506
+Max: 8068.3091
+Rim/background mean ratio: 0.8062
+Rim/background median ratio: 0.8232
+
+PET activity in local background:
+Background voxels: 50904
+Mean: 1853.2362
+Median: 1728.6245
+Max: 17338.5430

@@ -1,0 +1,14 @@
+3D SAM tumor segmentation summary
+=================================
+Slice range: 72 to 79
+Bounding box: [145, 155, 195, 215]
+Total mask voxels: 8848
+Segmented slices:
+Slice 72: voxels=1217, SAM score=0.9502061009407043
+Slice 73: voxels=1180, SAM score=0.943287193775177
+Slice 74: voxels=1119, SAM score=0.9613221883773804
+Slice 75: voxels=1079, SAM score=0.9611774682998657
+Slice 76: voxels=1037, SAM score=0.9441907405853271
+Slice 77: voxels=1363, SAM score=0.9143577218055725
+Slice 78: voxels=955, SAM score=0.9244520664215088
+Slice 79: voxels=898, SAM score=0.9189467430114746

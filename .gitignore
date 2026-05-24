@@ -8,3 +8,8 @@ __pycache__/
 # Data (still ignore)
 data/
 models/*.npy
+
+# Large/generated files
+models/
+results/*.npy
+results/*.tfm

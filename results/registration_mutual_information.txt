@@ -1,0 +1,5 @@
+Registration numerical evaluation
+=================================
+Mutual Information before registration: 0.406973
+Mutual Information after registration: 0.595625
+Relative MI change (%): 46.35

@@ -1,0 +1,26 @@
+PET high-activity ROI assessment
+================================
+Slices: 72 to 79
+Box: [145, 155, 195, 215]
+ROI voxels: 24000
+
+PET 85th percentile threshold inside ROI: 2566.6592
+PET-high voxels: 3600
+
+PET activity in PET-high lesion region:
+Mean: 4333.3506
+Median: 3352.3274
+Max: 16725.7324
+
+PET activity in local background:
+Background voxels: 169600
+Mean: 1914.6310
+Median: 1624.6277
+
+PET-high lesion/background ratios:
+Mean ratio: 2.2633
+Median ratio: 2.0634
+
+PET activity inside SAM MRI mask:
+Mean: 1114.1016
+Median: 873.1788
